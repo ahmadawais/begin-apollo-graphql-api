@@ -5,6 +5,7 @@ music-w25
 
 @http
 post /graphql
+get /new
 
 @tables
 data
